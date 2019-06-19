@@ -1,0 +1,14 @@
+{
+  "name": "enhancement-be",
+  "version": "1.0.0",
+  "description": "Backend Server for Enhancment Testing Suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Bernard Johnson",
+  "license": "ISC"
+}
